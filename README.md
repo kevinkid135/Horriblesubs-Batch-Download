@@ -1,5 +1,5 @@
 # Horriblesubs-Batch-Download
-This python script allows you to click all the episodes of an anime. This way, you don't need to wait for them to release a btch file.
+This python script automates the clicking of individual animes for a whole season. This way, you don't need to wait for them to release a batch file.
 
 ## How to
 ### Set-up
